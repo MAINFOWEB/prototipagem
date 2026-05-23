@@ -35,3 +35,9 @@ Especialista em Manutenção de Hardware e instalação de Software
 Desenvolvedor focado na otimização de processos de negócio através da tecnologia.
 
 Este projeto faz parte de um ecossistema de soluções voltadas para a Academia Venum, unindo design estratégico e desenvolvimento full-stack.
+
+## 📝 Licença
+Este projeto está sob a licença GPL 3.0.
+
+---
+Desenvolvido por Márcio.
